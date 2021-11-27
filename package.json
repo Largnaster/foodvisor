@@ -10,12 +10,32 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@react-native-community/masked-view": "^0.1.11",
+    "@react-navigation/bottom-tabs": "~5.2.6",
+    "@react-navigation/native": "~5.1.5",
+    "@react-navigation/stack": "~5.2.10",
+    "babel-preset-expo": "^8.5.1",
+    "base-64": "^1.0.0",
     "expo": "~43.0.2",
+    "expo-image-picker": "^11.0.3",
+    "expo-location": "^13.0.4",
+    "expo-permissions": "^13.0.3",
     "expo-status-bar": "~1.1.0",
-    "react": "17.0.1",
-    "react-dom": "17.0.1",
-    "react-native": "0.64.3",
-    "react-native-web": "0.17.1"
+    "firebase": "~7.9.0",
+    "lodash": "^4.17.21",
+    "random-uuid-v4": "^0.0.9",
+    "react": "~16.9.0",
+    "react-dom": "~16.9.0",
+    "react-native": "^0.61.0",
+    "react-native-easy-toast": "^1.2.0",
+    "react-native-elements": "^3.4.2",
+    "react-native-gesture-handler": "^1.10.3",
+    "react-native-keyboard-aware-scroll-view": "^0.9.5",
+    "react-native-maps": "^0.26.1",
+    "react-native-reanimated": "^2.2.4",
+    "react-native-safe-area-context": "^3.3.2",
+    "react-native-screens": "~3.8.0",
+    "react-native-web": "^0.11.7"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"

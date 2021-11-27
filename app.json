@@ -20,6 +20,19 @@
       "supportsTablet": true
     },
     "android": {
+      "package":"com.largnaster.foodvisor",
+      "config": {
+        "googleMaps": {
+          "apiKey": "Put key here"
+        }
+      },
+      "permissions": [
+        "CAMERA_ROLL",
+        "READ_EXTERNAL_STORAGE",
+        "LOCATION",
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_FINE_LOCATION"
+      ],
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
