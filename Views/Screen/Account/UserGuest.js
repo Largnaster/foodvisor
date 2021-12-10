@@ -13,7 +13,7 @@ export default function UserGuest() {
         resizeMode="contain"
         style={styles.image}
       />
-      <Text style={styles.title}> Consulta tu perfil de 5 Tene2res </Text>
+      <Text style={styles.title}> Consulta tu perfil de foodvisor </Text>
       <Text style={styles.description}>
         ¿Cómo describirías tu mejor Restaurante? Busca y visualiza los mejores
         restaurantes de una forma sencilla, vota cual te ha gustado más y
